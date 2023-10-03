@@ -67,4 +67,4 @@ async def on_ready():
     await schedule_daily_message()
 
 if __name__ == '__main__':
-    bot.run("MTAwODIxMzEzNTE1NDQ5MTM5NA.GGp0Dd.7qNi9y3Mj_QMZxkw2fENXaKYdQNsggWDTSlDVY")
+    bot.run("**************************************")
